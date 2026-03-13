@@ -1,0 +1,12 @@
+# Flutter
+.dart_tool/
+.packages
+.pub/
+build/
+
+# VS Code
+.vscode/
+
+# XAMPP / sistema
+.DS_Store
+Thumbs.db
